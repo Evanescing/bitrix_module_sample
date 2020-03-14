@@ -1,0 +1,30 @@
+<?
+$MESS["EVA_ADMIN_MENU_PROVIDE"] = "Провести платеж";
+$MESS["EVA_ADMIN_MENU_CHECK"] = "Проверить платеж";
+$MESS["EVA_ADMIN_MENU_CANCEL"] = "Отменить платеж";
+$MESS["PAYMENT_PROVIDE_CONFIRM"] = "Провести платеж?";
+$MESS["PAYMENT_PROVIDE_CANCEL"] = "Отменить платеж?";
+$MESS["PROVIDE_PAYMENT_SUCCESS"] = "Платеж #ID# успешно проведен.";
+$MESS["CANCEL_PAYMENT_SUCCESS"] = "Платеж #ID# успешно отменен.";
+$MESS["PROVIDE_PAYMENT_ERROR"] = "Возникла ошибка в проведении платежа";
+$MESS["PROVIDE_PAYMENT_ERROR_AUTOMODE"] = "Включено автопроведение. Вы не можете провести вручную этот тип платежа при автопроведении.";
+$MESS["PROVIDE_PAYMENT_ERROR_SUM"] = "Ошибка в проведении платежа: недостаточная сумма на счету для вывода";
+$MESS["PROVIDE_PAYMENT"] = "Обработка платежа";
+$MESS["EVA_PAYMENT_PROVIDE"] = "Провести";
+$MESS["EVA_PAYMENT_CANCEL"] = "Отказ";
+$MESS["EVA_PAYMENT_CLOSE"] = "Отмена";
+$MESS["EVA_PAYMENT_COMMENT"] = "Комментарий";
+$MESS["EVA_PAYMENT_SUMREST_PROVIDE"] = "К выплате клиенту после вычета налога: ";
+$MESS["EVA_PAYMENT_SUM_VALUTE"] = " руб.";
+$MESS["EVA_PAYMENT_SUMTAX"] = "Налог системы составит #SUM#";
+$MESS["EVA_EMPTYPAYMENT_ERROR"] = "Ошибка запроса";
+$MESS["EVA_CHECKPAYMENT_SUCCESS"] = "Платеж #ID# проверен. Данные корректны.";
+$MESS["EVA_ADMIN_STAT_POPOLNENIESUM"] = "ПОПОЛНЕНИЕ";
+$MESS["EVA_ADMIN_STAT_VYVODSUM"] = "ВЫВОД";
+$MESS["EVA_ADMIN_STAT_INVESTSUM"] = "ИНВЕСТИЦИИ";
+$MESS["EVA_ADMIN_STAT_VYPLATYSUM"] = "ВЫПЛАТЫ";
+$MESS["EVA_ADMIN_STAT_AGENTSUM"] = "АГЕНТСКИЕ";
+$MESS["EVA_ADMIN_STAT_TITLE"] = "Статистика платежей \"Проведено\"";
+$MESS["EVA_ADMIN_STAT_BALANCE"] = "Баланс системы";
+$MESS["EVA_ADMIN_STAT_PROFIT"] = "Доход системы";
+?>
