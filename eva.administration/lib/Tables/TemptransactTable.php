@@ -70,7 +70,7 @@ class TemptransactTable extends Main\Entity\DataManager
     }
 	
 	/*
-	* получаем все записи временных сумм для пользователя
+	* РїРѕР»СѓС‡Р°РµРј РІСЃРµ Р·Р°РїРёСЃРё РІСЂРµРјРµРЅРЅС‹С… СЃСѓРјРј РґР»СЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ
 	*/
 	public static function getTemporaryBlockedSum($userID)
 	{
